@@ -1,2 +1,2 @@
 # study
-Test rep
+Test repository
